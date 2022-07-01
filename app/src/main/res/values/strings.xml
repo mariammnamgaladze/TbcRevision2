@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TbcRevision2</string>
+    <string name="output">output</string>
+    <string name="save">save</string>
+    <string name="enter_anagram">Enter anagram</string>
+    <string name="anagrams_count">anagrams count</string>
+</resources>
